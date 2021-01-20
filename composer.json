@@ -1,0 +1,19 @@
+{
+    "name": "wangxin/fisher-mp-api",
+    "description": "微信小程序、QQ小程序、头条小程序、百度小程序api",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wang shuai",
+            "email": "fisher.wangxin@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "mp\\": "src"
+        }
+    }
+}
